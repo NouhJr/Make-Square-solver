@@ -1,0 +1,15 @@
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\bin\Debug\Make_Square_Solver.exe.config
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\bin\Debug\Make_Square_Solver.exe
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\bin\Debug\Make_Square_Solver.pdb
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.csprojResolveAssemblyReference.cache
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.Properties.Resources.resources
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.csproj.GenerateResource.Cache
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.exe
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.pdb
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\bin\Debug\Make_Square_Solver.exe.manifest
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\bin\Debug\Make_Square_Solver.application
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.exe.manifest
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.application
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.ListPieces_Form.resources
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.Main_Form.resources
+D:\FCIH-Materials\LV.3\S01\OS2\P&T\Make_Square_Solver\Make_Square_Solver\obj\Debug\Make_Square_Solver.Result_Form.resources
